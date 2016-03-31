@@ -1,0 +1,9 @@
+{
+  "mongo_url": "mongodb://localhost:27017/safeway-monopoly",
+  "modules": [
+    "db",
+    "table",
+    "prizes",
+    "codes"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "safeway-monopoly",
+  "version": "1.0.0",
+  "description": "keeps track of monopoly tickets acquired and prizes won",
+  "bin": "./index.js",
+  "author": "Carlos Rodriguez <carlos@s8f.org>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.0-rc.2",
+    "cli-prompt": "^0.5.0",
+    "mongodb": "^2.1.14",
+    "sosa_mongo": "^0.1.0"
+  }
+}
