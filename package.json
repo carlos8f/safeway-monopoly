@@ -1,6 +1,6 @@
 {
   "name": "safeway-monopoly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "keeps track of monopoly tickets acquired and prizes won",
   "bin": "./index.js",
   "author": "Carlos Rodriguez <carlos@s8f.org>",
